@@ -2,7 +2,7 @@
 A residence for my thoughts
 
 # Unit Testing
-When to test?
+[When to test?](whenToTest.md)
 
 Test layout
 
