@@ -7,7 +7,7 @@ A post on stack overflow sums the different types of methods very accurately. ht
 
 >If your code doesn't return anything but does have side effects, you can call the code and then assert that the correct side effects have happened. What the side effects are will determine how you do the checks.
 
-This covers 3 of the four diffenet types of methods. I would add that a third type
+This covers 3 of the four diffenet types of methods. I would add that a fourth type
 is a method that both returns results of a computation and has side effects.
 We would do well to stay away from this fourth type of method. We also hopefully 
 never write a method that does nothing, which leaves us with the middle two.
